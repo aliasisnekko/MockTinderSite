@@ -1,0 +1,52 @@
+body {
+    background-color: #ff4c68;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h4 {
+    color: #fff !important;
+    text-shadow: 2px 2px #000 !important;
+    border: 0 !important;
+}
+
+.buttons {
+    margin-top: 14px;
+}
+
+.btn-pink {
+    color: #fff;
+    background-color: #ff4c68;
+    border-color: slategray;
+}
+
+.card {
+    width: 302px;
+    height: 352px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.card-title {
+    font-family: 'Lobster', cursive;
+    font-weight: 900;
+    font-size: 4.5rem;
+    color: #ff4c68;
+    text-shadow: black;
+}
+
+.top {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.bottom {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
